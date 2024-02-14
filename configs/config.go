@@ -10,8 +10,8 @@ import (
 const (
 	host     = "localhost"
 	port     = 5432
-	user     = "postgres"
-	password = "noval123"
+	user     = "kotechi"
+	password = "@pasific12op"
 	dbName   = "kubikitapidb"
 )
 
